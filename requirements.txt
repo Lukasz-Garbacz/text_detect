@@ -1,0 +1,6 @@
+PyGetWindow==0.0.9
+mss==9.0.1
+packaging==24.1
+pillow==10.4.0
+pytesseract==0.3.10
+opencv-python==4.10.0.84
