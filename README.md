@@ -1,1 +1,1 @@
-# text_detect
+Requires tesseract language model to be placed in main directory
